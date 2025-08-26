@@ -10,7 +10,7 @@ import {
   StyleSheet,
 } from 'react-native';
 
-import { ItemController } from '../controller/ItemController';
+import  ItemController  from '../controller/ItemController';
 import Item from '../model/Item';
 
 export function ItemView () {
